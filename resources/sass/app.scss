@@ -1,0 +1,19 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+// FontAwesome
+@import '../adminLTE/plugins/fontawesome-free/css/all.css';
+
+// AdminLTE
+@import '../adminLTE/dist/css/adminlte.min.css';
+
+// Select2
+@import '../adminLTE/plugins/select2/css/select2.css';
+
+@import './style';
